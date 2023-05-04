@@ -1,5 +1,11 @@
 # Hi There 👋
-🌱 I’m currently learning full-stack web development and python.\n 👯 I’m looking to collaborate on ... python projects and web projects.\n 🐲 I'm interested in finding interesting solutions\n📫 Reach me at:
+🌱 I’m currently learning full-stack web development and python.
+
+👯 I’m looking to collaborate on ... python projects and web projects.
+
+🐲 I'm interested in finding interesting solutions
+
+📫 Reach me at:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:chandana.r.email@gmail.com)
 
